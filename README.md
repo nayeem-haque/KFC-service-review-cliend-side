@@ -12,6 +12,8 @@
 - Blog Sections.
 
 ## Technologies Used 
+- React Library.
+
 
 
 
