@@ -17,7 +17,7 @@
 - React Bootstrap.
 - React Icons.
 - Mongodb.
-- Firebase 
+- Firebase & Vercel.
 
 
 
