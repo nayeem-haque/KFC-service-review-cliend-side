@@ -15,6 +15,7 @@
 - React Library.
 - React Router.
 - React Bootstrap.
+- React Icons.
 
 
 
