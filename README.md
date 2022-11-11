@@ -1,6 +1,6 @@
 # KFC
 
-## Live Link - 
+## Live Link - https://creative-sorbet-70168a.netlify.app
 
 ## Features and Functionalities
 - Cloud Kitchen KFC.
