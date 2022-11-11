@@ -7,6 +7,6 @@
 - Login & Registration using Google, Email & Password.
 - After logging in anyone can review items. 
 - User must login to check his/her reviews.
-
+- User cas see others review.
 
 
