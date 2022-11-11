@@ -11,7 +11,7 @@
 - User can suggest meals.
 - Blog Sections.
 
-
+## Technologies Used 
 
 
 
