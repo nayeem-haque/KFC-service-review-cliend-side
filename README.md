@@ -16,6 +16,7 @@
 - React Router.
 - React Bootstrap.
 - React Icons.
+- Mongodb.
 
 
 
